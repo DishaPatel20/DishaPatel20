@@ -1,7 +1,7 @@
 ### Hey there, I'm Disha 👋 http://disha.epizy.com/
 
 
-- 🌱 I’m currently learning Front end Development, Graphic Desgning, Android App Development
+- 🌱 I’m currently learning Front end Development, Graphic Desgning, Web Developer
 - 👯 I’m looking to collaborate on Web Desgning, Android Application UI
 - 🤔 I’m looking for help with UI Designs for Website & Android
 
