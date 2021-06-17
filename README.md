@@ -1,23 +1,18 @@
-### Hey there, I'm Disha 👋 http://disha.epizy.com/
+<h1 align='center'> Hi there 👋, I'm Disha  👩‍💻 </h1>
 
+<p align='center'>
+  Student of  B.Tech <b>Computer Engineer</b> 
+</p>
 
-- 🌱 I’m currently learning Front end Development, Graphic Desgning, Web Developer
-- 👯 I’m looking to collaborate on Web Desgning, Android Application UI
-- 🤔 I’m looking for help with UI Designs for Website & Android
+<p align='center'>
+  <a href="http://disha.epizy.com/">MyWebsite</a>
+</p>
 
-___
-## 📊 Technical Skills
-<!--START_SECTION:waka-->
-```text
-Web Design         ████████████████████░░░░░ 
-SQL                ███████████████░░░░░░░░░░ 
-Android            ███████████░░░░░░░░░░░░░░
-Photoshop          ███████████████░░░░░░░░░░
-Adobe Illustrator  ██████████████████░░░░░░░
-Java		   ██████████████████░░░░░░░ 
-```
-<!--END_SECTION:waka-->
-<br />
+<hr>
+
+<h4> 🔭 Skills Known ....</h4>
+
+<h5>Web Designer | .Net Developer | Video Editor</h5>
 
 ___
 ## 📫 Follow me on :
@@ -33,7 +28,7 @@ ___
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/C#/c#.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
