@@ -10,9 +10,14 @@
 
 <hr>
 
-<h4> 🔭 Skills Known ....</h4>
+## Currently Exploring Myself In :
 
-<h5>Web Designer | .Net Developer | Video Editor</h5>
+<h1>
+  <a href=""><img src="https://img.shields.io/badge/Web%20Designer-important" height="30"></a> 
+  <a href=""><img src="https://img.shields.io/badge/.Net%20Developer-blueviolet" height="30"></a>
+  <a href=""><img src="https://img.shields.io/badge/Video%20Editor-critical" height="30"></a>
+</h1>
+
 
 ___
 ## 📫 Follow me on :
@@ -23,12 +28,12 @@ ___
 </p>
 
 ___
-## Languages and Tools Use :
+## Languages and Tools Known :
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/C#/c#.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
