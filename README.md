@@ -10,9 +10,7 @@
 ## Currently Exploring Myself In :
 
 <h1>
-  <a href=""><img src="https://img.shields.io/badge/Web%20Designer-important" height="30"></a> 
-  <a href=""><img src="https://img.shields.io/badge/.Net%20Developer-blueviolet" height="30"></a>
-  <a href=""><img src="https://img.shields.io/badge/Video%20Editor-critical" height="30"></a>
+  <a href=""><img src="https://img.shields.io/badge/Flutter%20Developer-important" height="30"></a> 
   <a href=""><img src="https://img.shields.io/badge/Android%20Developer-pink" height="30"></a> 
 </h1>
 
