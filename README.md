@@ -1,45 +1,68 @@
-<h1 align='center'> Hi there, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Disha  👩‍💻  &nbsp; <a href="http://disha.epizy.com/"><img src="https://img.shields.io/badge/Website-yellowgreen" height="25"</a>
-</h1> 
+# 👋 Hi there, I'm Disha Patel
 
-<h4 align='center'>
- B.Tech <b>Computer Engineer</b> 
-</h4>
+## 💻 Android & Flutter Developer | Clean Coder | App Optimizer
 
-<hr>
+🌟 Passionate about building beautiful, scalable, and high-performance mobile apps that users love. With **3+ years** of experience in **native Android (Java/Kotlin)** and **cross-platform Flutter (Dart)** development, I bring ideas to life with precision, performance, and pixel-perfect UI.
 
-## Currently Exploring Myself In :
+---
 
-<h1>
-  <a href=""><img src="https://img.shields.io/badge/Flutter%20Developer-important" height="30"></a> 
-  <a href=""><img src="https://img.shields.io/badge/Android%20Developer-pink" height="30"></a> 
-</h1>
+### 🧠 About Me
 
+- 🔧 Mobile App Developer with real-world experience in building and publishing 10+ live apps
+- 🧑‍💻 Specializing in **UI/UX design**, **Firebase**, **API integration**, **Room DB**, and **state management**
+- 🚀 Always learning, improving, and pushing code with clean architecture and SOLID principles
 
-___
-## 📫 Follow me on :
-<p>
-<a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height ="25"></a> 
-<a href="https://www.instagram.com"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height ="25"></a>
-<a href="https://www.twitter.com"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" height ="25"></a> 
-</p>
+---
 
-___
-## Languages and Tools Known :
+### 🚀 Tech Stack
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//visual-studio-code//visual-studio-code.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//wordpress//wordpress.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//bootstrap//bootstrap.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//jquery//jquery.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//c//c.png"></code>
+**Languages & Frameworks:**  
+`Java` | `Kotlin` | `Dart` | `Flutter` | `Android SDK`
+
+**Tools & Platforms:**  
+`Android Studio` | `VS Code` | `Git` | `GitHub` | `Firebase` | `Figma` | `Postman`
+
+**Database & Backend:**  
+`SQLite` | `Room` | `Firebase Realtime DB` | `Cloud Firestore` | `REST APIs` | `Retrofit` | `Dio`
+
+---
+
+### 📱 Featured Projects
+
+#### 📸 Photo Slideshow with Music  
+`10M+ Downloads` ⭐ `4.1 Rating`  
+> A feature-rich app to create music-backed slideshows with smooth transitions and custom galleries.  
+
+#### 🎨 Poster Maker – All-in-One Design Tool  
+`All Types: Festival, Business, Brochures` ⭐ `4.4 Rating`  
+> A creative poster, logo, and flyer-making app with drag-and-drop templates, typography, and stickers.  
+
+---
+
+### 🏆 Certifications
+
+- ✅ **Flutter & Dart - The Complete Guide** *(Coursera/Udemy)*
+- ✅ **Android App Development** *(Google Developers)*
+- ✅ **be10x AI Tools Certification**
+
+---
+
+### 📫 Let's Connect
+
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/dishapatel20/))
+- 📧 dishaapatell20@gmail.com
+- 🌍 Based in India | Open to remote & onsite roles globally
+
+---
+
+### ✨ Fun Facts
+
+- 💡 I love turning ideas into real apps people actually use.
+- 📚 I'm constantly learning: new packages, clean patterns, better UX.
+- 🌱 Currently exploring Riverpod, MVVM, CI/CD, and design systems.
+
+---
+
+_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+
+---
